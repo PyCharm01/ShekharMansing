@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShekharMansing
+- 👋 Hi, I’m @ShekharMansingChormale
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Science/Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
